@@ -1,7 +1,8 @@
-#[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+#💫 About Me:
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-💫 About Me:
+
 🌱 I’m currently learning MERN stack<br><br>👯 I’m looking to collaborate on Django Project<br><br>💬 Ask me about html, css, javascript, react, python,java, c/c++<br><br>📫 How to reach me nathnaelmesfin77@gmail.com
 
 
